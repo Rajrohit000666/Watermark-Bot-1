@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @cute_girl_rani
 
 import time
 from humanfriendly import format_timespan
@@ -24,7 +24,7 @@ async def send_video_handler(bot, cmd, output_vid, video_thumbnail, duration, wi
                                            [InlineKeyboardButton("Support Group", url="https://t.me/disneyteamchat")]]),
         progress=progress_for_pyrogram,
         progress_args=(
-            "Uploading, Wait Sir ...",
+            "Hey Uploading, Wait Sir ...",
             editable,
             c_time
         )
