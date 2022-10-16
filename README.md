@@ -1,5 +1,5 @@
 # Watermark-Bot
-A Telegram Video Watermark Adder Bot by [@doreamonfans1](https://t.me/doreamonfans1)
+A Telegram Video Watermark Adder Bot by [𝗖𝘂𝘁𝗲 𝗴𝗶𝗿𝗹 𝗥𝗮𝗻𝗶 𓃦](https://t.me/cute_girl_rani)
 
 ## Features:
 - Save Custom Watermark Image.
@@ -13,7 +13,7 @@ A Telegram Video Watermark Adder Bot by [@doreamonfans1](https://t.me/doreamonfa
 - Broadcast Feature.
 - Can Save Watermark Position for users.
 - Can Save Watermark Size for users.
-- Can Upload to [Streamtape](https://streamtape.com/) if File Size is more than 2GB.
+- Can Upload to [𝗖𝘂𝘁𝗲 𝗴𝗶𝗿𝗹 𝗥𝗮𝗻𝗶 𓃦](https://t.me/cute_girl_rani) if File Size is more than 5GB.
 
 ### Demo Bot:
 <a href="https://t.me/VideoWatermark_Bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
@@ -50,14 +50,14 @@ settings - User Settings Panel
 
 #### Easiest Way [Deploy To Heroku] 😪
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteam77/Watermark-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rajrohit000666/Watermark-Bot-1)
 
 #### Video Tutorial:
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=A7wnaKMHpvU&t)
 
 #### The Hard Way 🤕
 ```sh
-git clone https://github.com/disneyteam77/Watermark-Bot
+git clone https://github.com/Rajrohit000666/Watermark-Bot-1.get
 cd Watermark-Bot
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
