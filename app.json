@@ -7,9 +7,9 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/AbirHasan2005/Watermark-Bot",
-    "website": "https://telegram.dog/AbirHasan2005",
-    "success_url": "https://t.me/Discovery_Updates",
+    "repository": "https://github.com/Rajrohit000666/Watermark-Bot-1",
+    "website": "https://github.com/Rajrohit000666",
+    "success_url": "https://github.com/Rajrohit000666/Watermark-Bot-1",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @TeleORG_Bot"
@@ -44,7 +44,7 @@
     },
     "buildpacks": [ 
         {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+            "url": "https://github.com/Rajrohit000666/heroku-buildpack-ffmpeg-latest"
         }, 
         { 
             "url": "heroku/python"
