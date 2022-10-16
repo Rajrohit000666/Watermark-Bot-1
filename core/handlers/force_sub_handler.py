@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @cute_girl_rani
 
 import asyncio
 from configs import Config
@@ -18,7 +18,7 @@ async def handle_force_subscribe(bot, cmd):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=cmd.from_user.id,
-                text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/disneyteamchat).",
+                text="Sorry Sir, You are Banned to use me. Contact my [Support Group](https://t.me/movie4ubotschannel).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -33,7 +33,7 @@ async def handle_force_subscribe(bot, cmd):
                         InlineKeyboardButton("🤖 Join Updates Channel", url=invite_link.invite_link)
                     ],
                     [
-                        InlineKeyboardButton("🔄 Refresh 🔄", callback_data="refreshmeh")
+                        InlineKeyboardButton("🔄 Refresh 🔄", callback_data="𝗖𝘂𝘁𝗲 𝗴𝗶𝗿𝗹 𝗥𝗮𝗻𝗶 𓃦)
                     ]
                 ]
             ),
@@ -43,7 +43,7 @@ async def handle_force_subscribe(bot, cmd):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Something went Wrong. Contact my [Support Group](https://t.me/disneyteamchat).",
+            text="Something went Wrong. Contact my [Support Group](https://t.me/movie4ubotschannel).",
             parse_mode="markdown",
             disable_web_page_preview=True
         )
