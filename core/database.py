@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @cute_girl_rani
 
 import datetime
 import motor.motor_asyncio
