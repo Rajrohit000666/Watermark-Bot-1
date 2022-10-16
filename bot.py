@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @cute_girl_rani
 
 # This is Telegram Video Watermark Adder Bot's Source Code.
 # I Hardly Made This. So Don't Forget to Give Me Credits.
@@ -8,8 +8,8 @@
 # Edit anything at your own risk!
 
 # Don't forget to help me if I done any mistake in the codes.
-# Support Group: @linux_repo 
-# Bots Channel: @Discovery_Updates
+# Support me: https://t.me/movie4ubotschannel 
+# Bots Channel: https://t.me/movie4ubotschannel
 
 
 import os
@@ -51,7 +51,7 @@ async def HelpWatermark(bot, cmd):
 	await cmd.reply_text(
 		text=Config.USAGE_WATERMARK_ADDER,
 		parse_mode="Markdown",
-		reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Developer", url="https://t.me/doreamonfans1"), InlineKeyboardButton("Support Group", url="https://t.me/disneyteamchat")], [InlineKeyboardButton("Bots Channel", url="https://t.me/disneygrou")], [InlineKeyboardButton("dev2", url="https://t.me/doreamonfans2")]]),
+		reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("Developer", url="https://t.me/cute_girl_rani"), InlineKeyboardButton("Support Group", url="https://t.me/movie4ubotschannel")], [InlineKeyboardButton("Bots Channel", url="https://t.me/disneygrou")], [InlineKeyboardButton("dev2", url="https://t.me/doreamonfans2")]]),
 		disable_web_page_preview=True
 	)
 
@@ -143,7 +143,7 @@ async def VidWatermarkAdder(bot, cmd):
 			file_name=watermark_path,
 			progress=progress_for_pyrogram,
 			progress_args=(
-				"Downloading Sir ...",
+				"Hey Downloading Sir ...",
 				editable,
 				c_time
 			)
@@ -193,7 +193,7 @@ async def VidWatermarkAdder(bot, cmd):
 			file_name=dl_loc,
 			progress=progress_for_pyrogram,
 			progress_args=(
-				"Downloading Sir ...",
+				"Hey Downloading Sir ...",
 				editable,
 				c_time
 			)
